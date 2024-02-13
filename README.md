@@ -1,3 +1,1 @@
-# chessboard
-
-This repository have the chess board example, even have some **bug** leftover...
+# winapiadmin.github.io
